@@ -1,0 +1,10 @@
+id,tarefa,pre_requisito,dias
+1,limpeza do terreno,0,4
+2,producao e colocacao da fundacao,1,3
+3,producao da estrutura,2,7
+4,colocacao do telhado,3,6
+5,colocacao das tabuas externas,3,4
+6,instalacao do encanamento e fiacao,4_5,6
+7,colocacao das janelas e portas,3,5
+8,instalacao das janelas e portas,6,5
+9,pintura do interior,7_8,5
